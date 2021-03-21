@@ -885,7 +885,7 @@
     {
       "id": "29",
       "name": "Tasty Concrete Car",
-      "price": 51,
+      "price": 5100000,
       "sku": "abfb9a09-1060-48f6-a784-e4a300f16133",
       "inventory": 12
     },
@@ -1102,7 +1102,7 @@
     {
       "id": "60",
       "name": "Small Wooden Car",
-      "price": 99,
+      "price": 990000,
       "sku": "f08d82eb-f7b4-45ba-963c-aa0ee6994cad",
       "inventory": 95
     },
