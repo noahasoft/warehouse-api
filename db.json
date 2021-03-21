@@ -689,7 +689,7 @@
     {
       "id": "1",
       "name": "Intelligent Frozen Cheese",
-      "price": 25,
+      "price": 250,
       "sku": "fcb3659b-cbe9-43b9-9276-e1a82b17cc1b",
       "inventory": 77
     },
@@ -703,21 +703,21 @@
     {
       "id": "3",
       "name": "Handcrafted Metal Towels",
-      "price": 45,
+      "price": 4500,
       "sku": "3124da7e-c212-4657-8df8-7fc0a144b503",
       "inventory": 98
     },
     {
       "id": "4",
       "name": "Gorgeous Metal Chair",
-      "price": 97,
+      "price": 9700,
       "sku": "2cfd9087-3c24-4f9b-b373-314248dd5f42",
       "inventory": 28
     },
     {
       "id": "5",
       "name": "Small Soft Chicken",
-      "price": 97,
+      "price": 97000,
       "sku": "1dcca12a-75e8-484c-9f37-d6b30073ec59",
       "inventory": 13
     },
@@ -787,14 +787,14 @@
     {
       "id": "15",
       "name": "Handmade Concrete Fish",
-      "price": 14,
+      "price": 1400,
       "sku": "9dea1336-81e0-41d7-9745-115bc74a6ebf",
       "inventory": 51
     },
     {
       "id": "16",
       "name": "Practical Frozen Keyboard",
-      "price": 35,
+      "price": 3500,
       "sku": "1e064291-f395-481f-a34b-bb23044c7d59",
       "inventory": 39
     },
@@ -815,7 +815,7 @@
     {
       "id": "19",
       "name": "Gorgeous Metal Tuna",
-      "price": 4,
+      "price": 400000,
       "sku": "9fae1727-3598-444c-8f7f-b8e891b38ae0",
       "inventory": 99
     },
@@ -892,28 +892,28 @@
     {
       "id": "30",
       "name": "Awesome Steel Pizza",
-      "price": 99,
+      "price": 9900,
       "sku": "814947be-b12d-449f-ab5c-f7a472a4c610",
       "inventory": 54
     },
     {
       "id": "31",
       "name": "Intelligent Wooden Keyboard",
-      "price": 84,
+      "price": 840,
       "sku": "ece1b073-47dd-4398-9070-9943c831aa6d",
       "inventory": 75
     },
     {
       "id": "32",
       "name": "Handcrafted Fresh Bike",
-      "price": 5,
+      "price": 50000,
       "sku": "638a742c-1fc3-40bc-869e-2e6dd8074689",
       "inventory": 99
     },
     {
       "id": "33",
       "name": "Small Granite Shirt",
-      "price": 1,
+      "price": 100,
       "sku": "04cc1ba6-3c48-411d-96ba-0e278d176259",
       "inventory": 62
     },
@@ -1018,7 +1018,7 @@
     {
       "id": "48",
       "name": "Handcrafted Steel Soap",
-      "price": 59,
+      "price": 5900,
       "sku": "70010ed3-8ed9-4a8e-9526-98993367b429",
       "inventory": 85
     },
@@ -1032,9 +1032,359 @@
     {
       "id": "50",
       "name": "Unbranded Wooden Bike",
-      "price": 92,
+      "price": 920,
       "sku": "033d079e-e824-4aff-b6f4-4923b6348f0b",
       "inventory": 47
+    },
+    {
+      "id": "51",
+      "name": "Rustic Concrete Chips",
+      "price": 62,
+      "sku": "3dda005e-39d0-4a29-8302-2011bd0d9d52",
+      "inventory": 51
+    },
+    {
+      "id": "52",
+      "name": "Gorgeous Plastic Soap",
+      "price": 82,
+      "sku": "02a12d5d-ed90-4c7b-b5bd-077afcc9ae39",
+      "inventory": 84
+    },
+    {
+      "id": "53",
+      "name": "Fantastic Steel Chair",
+      "price": 4100,
+      "sku": "7f7f8e52-bb6e-409f-a065-f6db09c34ce9",
+      "inventory": 72
+    },
+    {
+      "id": "54",
+      "name": "Gorgeous Metal Sausages",
+      "price": 94,
+      "sku": "e04cd06c-83d6-4a1d-a1ff-c26dadfbffce",
+      "inventory": 67
+    },
+    {
+      "id": "55",
+      "name": "Tasty Plastic Towels",
+      "price": 37,
+      "sku": "d69021b2-5ce3-45cb-bb7a-05df7f3d7b67",
+      "inventory": 10
+    },
+    {
+      "id": "56",
+      "name": "Practical Granite Shoes",
+      "price": 38,
+      "sku": "2ec7f66c-9a49-41de-9f63-a711b0fb4444",
+      "inventory": 19
+    },
+    {
+      "id": "57",
+      "name": "Tasty Frozen Car",
+      "price": 8200000,
+      "sku": "8ae070a0-20f9-46a4-b001-b1e318090048",
+      "inventory": 10
+    },
+    {
+      "id": "58",
+      "name": "Handmade Rubber Salad",
+      "price": 71,
+      "sku": "9ff27165-0941-47e7-8070-724009ae8428",
+      "inventory": 15
+    },
+    {
+      "id": "59",
+      "name": "Ergonomic Fresh Shoes",
+      "price": 75,
+      "sku": "d0a906af-d2a4-4212-8fdd-f8148c4723a3",
+      "inventory": 44
+    },
+    {
+      "id": "60",
+      "name": "Small Wooden Car",
+      "price": 99,
+      "sku": "f08d82eb-f7b4-45ba-963c-aa0ee6994cad",
+      "inventory": 95
+    },
+    {
+      "id": "61",
+      "name": "Fantastic Concrete Bacon",
+      "price": 51,
+      "sku": "5dbf2d1f-43aa-4ce0-9877-177d4c514952",
+      "inventory": 11
+    },
+    {
+      "id": "62",
+      "name": "Gorgeous Steel Chicken",
+      "price": 27,
+      "sku": "21cae2d4-9070-4f48-b84e-30a463d06b45",
+      "inventory": 14
+    },
+    {
+      "id": "63",
+      "name": "Practical Steel Keyboard",
+      "price": 53,
+      "sku": "b51bb045-de37-49f9-96a3-a7d5733b0df1",
+      "inventory": 95
+    },
+    {
+      "id": "64",
+      "name": "Rustic Metal Bike",
+      "price": 44,
+      "sku": "4535b83a-08b0-4f75-97da-e4065a40d7da",
+      "inventory": 48
+    },
+    {
+      "id": "65",
+      "name": "Handmade Plastic Gloves",
+      "price": 56,
+      "sku": "d6ac73a2-54cd-4243-bccb-af6bf6aa726c",
+      "inventory": 19
+    },
+    {
+      "id": "66",
+      "name": "Sleek Concrete Keyboard",
+      "price": 670,
+      "sku": "b8ea68eb-56e2-4d62-8e8d-abe06770ab18",
+      "inventory": 9
+    },
+    {
+      "id": "67",
+      "name": "Handmade Frozen Shirt",
+      "price": 81,
+      "sku": "34e8a361-be01-4830-a410-c39878681c53",
+      "inventory": 49
+    },
+    {
+      "id": "68",
+      "name": "Rustic Metal Mouse",
+      "price": 76,
+      "sku": "fd04baeb-d3a9-40fe-bbd4-3ef9e0145dca",
+      "inventory": 51
+    },
+    {
+      "id": "69",
+      "name": "Gorgeous Wooden Tuna",
+      "price": 27,
+      "sku": "6586d1a0-ce75-40ed-8931-48867f817392",
+      "inventory": 56
+    },
+    {
+      "id": "70",
+      "name": "Tasty Rubber Salad",
+      "price": 63,
+      "sku": "79c64e46-2b6a-4696-aba8-1e3eef1c1edc",
+      "inventory": 15
+    },
+    {
+      "id": "71",
+      "name": "Unbranded Plastic Hat",
+      "price": 31,
+      "sku": "69a87d8f-484a-4972-975e-2f4404728747",
+      "inventory": 86
+    },
+    {
+      "id": "72",
+      "name": "Handcrafted Metal Soap",
+      "price": 93,
+      "sku": "55ee1878-fa45-4ae7-b681-38641579b783",
+      "inventory": 80
+    },
+    {
+      "id": "73",
+      "name": "Small Frozen Soap",
+      "price": 97,
+      "sku": "eb70f226-00bd-431d-b55e-91efefea8d1c",
+      "inventory": 58
+    },
+    {
+      "id": "74",
+      "name": "Handmade Cotton Ball",
+      "price": 60,
+      "sku": "9b71113a-1f5a-4ef4-a678-2aa2406e661f",
+      "inventory": 88
+    },
+    {
+      "id": "75",
+      "name": "Unbranded Concrete Bacon",
+      "price": 37,
+      "sku": "088c6b8d-8c2a-4d17-bf12-601551308afa",
+      "inventory": 37
+    },
+    {
+      "id": "76",
+      "name": "Rustic Soft Ball",
+      "price": 39,
+      "sku": "a7f5b05d-99df-46fc-b5e2-f61d40555182",
+      "inventory": 31
+    },
+    {
+      "id": "77",
+      "name": "Tasty Concrete Chair",
+      "price": 89,
+      "sku": "892ed8f6-db50-44ad-9e63-520908b3e13d",
+      "inventory": 92
+    },
+    {
+      "id": "78",
+      "name": "Fantastic Concrete Shirt",
+      "price": 10,
+      "sku": "9d28e1f1-ae13-4a7a-8b0f-fc936a08a490",
+      "inventory": 52
+    },
+    {
+      "id": "79",
+      "name": "Refined Fresh Fish",
+      "price": 90,
+      "sku": "0ca77dcf-7652-4463-8069-0d81ea741299",
+      "inventory": 96
+    },
+    {
+      "id": "80",
+      "name": "Licensed Steel Chips",
+      "price": 46,
+      "sku": "83d0c4e2-3105-4a97-917a-fed7c27ee632",
+      "inventory": 33
+    },
+    {
+      "id": "81",
+      "name": "Handcrafted Frozen Table",
+      "price": 34,
+      "sku": "63389d27-d288-4966-b64b-e59052bc626f",
+      "inventory": 65
+    },
+    {
+      "id": "82",
+      "name": "Ergonomic Metal Chips",
+      "price": 46,
+      "sku": "81ec3b67-694c-4180-a631-d5b9f441628e",
+      "inventory": 63
+    },
+    {
+      "id": "83",
+      "name": "Ergonomic Granite Ball",
+      "price": 23,
+      "sku": "36010913-4c1d-46fb-b67e-6464f4c0554f",
+      "inventory": 9
+    },
+    {
+      "id": "84",
+      "name": "Practical Cotton Sausages",
+      "price": 85,
+      "sku": "69e1da4d-b2a1-4f33-96a5-ec68a8c7eedf",
+      "inventory": 65
+    },
+    {
+      "id": "85",
+      "name": "Rustic Frozen Cheese",
+      "price": 50,
+      "sku": "d9fcb427-2a0f-4a0f-9238-2241651962e0",
+      "inventory": 17
+    },
+    {
+      "id": "86",
+      "name": "Small Metal Mouse",
+      "price": 23,
+      "sku": "146f70b9-ef61-4c8c-82b3-3e0cc4e25997",
+      "inventory": 37
+    },
+    {
+      "id": "87",
+      "name": "Intelligent Rubber Pizza",
+      "price": 49,
+      "sku": "fa86f86d-a2d0-4d58-8f33-b8f4053349ef",
+      "inventory": 63
+    },
+    {
+      "id": "88",
+      "name": "Rustic Fresh Computer",
+      "price": 86000,
+      "sku": "ae59a099-f49b-4e2c-ab81-989141ccdbef",
+      "inventory": 63
+    },
+    {
+      "id": "89",
+      "name": "Fantastic Plastic Gloves",
+      "price": 81,
+      "sku": "13a2df63-8710-4fda-a9ef-a83a82a54c9b",
+      "inventory": 70
+    },
+    {
+      "id": "90",
+      "name": "Unbranded Granite Chicken",
+      "price": 56,
+      "sku": "c677bdec-cd2b-4bdc-99be-273f331f8f72",
+      "inventory": 39
+    },
+    {
+      "id": "91",
+      "name": "Awesome Soft Fish",
+      "price": 41,
+      "sku": "3a1b7c4d-93f9-4170-ab31-a401b5e743a5",
+      "inventory": 10
+    },
+    {
+      "id": "92",
+      "name": "Handmade Granite Pizza",
+      "price": 89,
+      "sku": "ff1c2950-b39f-4ea0-a438-e5cbd76a9772",
+      "inventory": 49
+    },
+    {
+      "id": "93",
+      "name": "Fantastic Frozen Ball",
+      "price": 80,
+      "sku": "9a1e89f5-b27d-4a46-8363-7671e5333a63",
+      "inventory": 44
+    },
+    {
+      "id": "94",
+      "name": "Fantastic Steel Computer",
+      "price": 170000,
+      "sku": "a6ecdbfa-ded3-41df-a3bd-126dd978f68a",
+      "inventory": 43
+    },
+    {
+      "id": "95",
+      "name": "Fantastic Wooden Hat",
+      "price": 97,
+      "sku": "f62483e1-06a5-4720-b257-cfd819fe7fce",
+      "inventory": 95
+    },
+    {
+      "id": "96",
+      "name": "Awesome Frozen Tuna",
+      "price": 96,
+      "sku": "a5ffc049-1cb9-443a-88ff-23d4c1052bfa",
+      "inventory": 21
+    },
+    {
+      "id": "97",
+      "name": "Sleek Fresh Keyboard",
+      "price": 640,
+      "sku": "fe76adb7-a61d-4423-aca1-cbf7217a20ae",
+      "inventory": 46
+    },
+    {
+      "id": "98",
+      "name": "Handmade Metal Shoes",
+      "price": 1200,
+      "sku": "0a31fdb6-ffb2-4a90-8ff5-f046afbb0a91",
+      "inventory": 63
+    },
+    {
+      "id": "99",
+      "name": "Handcrafted Steel Ball",
+      "price": 920,
+      "sku": "fd19d1f7-88a9-40aa-83dd-a0b169c0b20c",
+      "inventory": 42
+    },
+    {
+      "id": "100",
+      "name": "Licensed Concrete Towels",
+      "price": 90,
+      "sku": "989493ed-015b-4af5-9a88-fc42276e3c3a",
+      "inventory": 37
     }
   ]
 }

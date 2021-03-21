@@ -4,10 +4,11 @@
   "description": "A mock API for a warehouse point-of-sale",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "start:delay": "json-server --watch db.json --delay 2000 --port 3001"
   },
   "keywords": [
-    "json-server,heroku, node, REST API"
+    "json-server, heroku, node, RESTful"
   ],
   "author": "Jesper Orb",
   "license": "ISC",
